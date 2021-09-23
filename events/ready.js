@@ -9,7 +9,7 @@ var botconsole = ayarlar.botconsole
 
 module.exports = client => {
   var oyun = [
-          "Alliance Public ⚡",
+          "DURUM BELİRLE /events/ready.js den ayarla beniii ⚡",
       ];
       var prefix = ayarlar.prefix;
   
