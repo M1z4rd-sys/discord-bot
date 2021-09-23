@@ -1,4 +1,4 @@
-title Vagos Mod
+title BOT
 echo off
 :a
 color b
