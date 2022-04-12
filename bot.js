@@ -196,16 +196,6 @@ client.on('message', async message => {
   }
   
 })
-  client.on('message', msg => {
-    if (msg.content.toLowerCase() === 'nis') {
-    msg.reply("İbonun'ki");
-    }
-    });
-  client.on('message', msg => {
-    if (msg.content.toLowerCase() === 'kadir') {
-    msg.reply("Kadirmi Abi Diyceksin");
-    }
-    });
   //webhook-koruma//
   client.on("webhookUpdate", async (channel) => {
     let guild = channel.guild;
